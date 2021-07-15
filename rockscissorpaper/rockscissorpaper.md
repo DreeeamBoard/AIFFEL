@@ -324,6 +324,7 @@ print("test_accuracy: {}".format(test_accuracy))
 - 에포크 epochs (훈련셋을 몇 번 박복해서 학습할 것인가?) : 10
 
 ### 2. 데이터 크기
+- train 데이터를 증가시킬수록 accuracy가 증가함을 관찰
 - 타인 이미지 포함 train 4286개, test 300개
 
 ### 3. 딥러닝 모델
